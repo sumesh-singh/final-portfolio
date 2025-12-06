@@ -19,10 +19,7 @@ const Footer = () => {
             <Mail className="w-5 h-5" />
             {SOCIALS.email}
           </a>
-          <a href={`tel:${SOCIALS.phone}`} className="flex items-center gap-3 text-white/70 hover:text-white transition-colors">
-            <Phone className="w-5 h-5" />
-            {SOCIALS.phone}
-          </a>
+          
         </div>
       </div>
       <div className="text-center mt-12 text-sm text-white/20">

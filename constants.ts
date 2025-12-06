@@ -2,7 +2,6 @@ import { Experience, Project, Education } from './types';
 
 export const SOCIALS = {
   email: "sumesh13055@gmail.com",
-  phone: "+91 7288081868",
   linkedin: "https://linkedin.com/in/sumesh-singh-kotiwale", 
   github: "https://github.com",
   location: "Hyderabad, Telangana, India"
